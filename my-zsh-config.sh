@@ -138,7 +138,6 @@ if [ $decision == y ]; then
   echo 'p.p.s. Get stickers and t-shirts at http://shop.planetargon.com.'
   echo ''
   printf "${NORMAL}"
-  env zsh
 }
 
 plugins_get(){
