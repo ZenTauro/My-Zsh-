@@ -8,6 +8,7 @@
 
 # Use colors, but only if connected to a terminal, and that terminal
 # supports them.
+
   if which tput >/dev/null 2>&1; then
       ncolors=$(tput colors)
   fi
@@ -151,7 +152,7 @@ theme_get(){
 
 custonomization(){
  echo "export ZSH=$HOME/.oh-my-zsh" > ~/.zshrc 
- curl -fsSL https://raw.githubusercontent.com/ZenTauro/My-Zsh-Config/master/zshrc >> ~/.zshrc 
+ cat zshrc >> ~/.zshrc
 }
 
 version_check_plus_dependencies(){
