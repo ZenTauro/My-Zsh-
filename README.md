@@ -13,6 +13,6 @@ git clone --depth 1 https://github.com/ZenTauro/My-Zsh-.git && ./My-Zsh-Config/m
 ```
 
 ## Disclaimer ##
-This is pretty much a personal project so it optimal
-performance is not expected. Also, this is the first script that I have written so do it at
+This is pretty much a personal project so optimal
+performance should not be expected. Also, this is the first script that I have written so do it at
 your own risk
