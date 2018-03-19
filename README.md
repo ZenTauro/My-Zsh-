@@ -9,7 +9,7 @@ solarized dark color scheme to the terminal
 ## Installation ##
 The installation is very simple, just clone this repo and run the script:
 ```
-git clone --depth 1 https://github.com/ZenTauro/My-Zsh-.git && ./My-Zsh-/my-zsh-config.sh 
+git clone --depth 1 https://github.com/ZenTauro/My-Zsh-.git && cd My-Zsh- && ./my-zsh-config.sh
 ```
 
 ## Disclaimer ##
